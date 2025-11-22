@@ -112,17 +112,14 @@
         <mxCell id="MHNmdjgqj6w6yaXh38Ab-132" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1654" y="50" width="900" height="130" as="geometry" />
         </mxCell>
+        <mxCell id="MHNmdjgqj6w6yaXh38Ab-139" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="MHNmdjgqj6w6yaXh38Ab-133" target="MHNmdjgqj6w6yaXh38Ab-135">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="MHNmdjgqj6w6yaXh38Ab-133" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;总界面&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1780" y="85" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MHNmdjgqj6w6yaXh38Ab-135" value="SOC PDN" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2068" y="85" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="MHNmdjgqj6w6yaXh38Ab-136" value="check" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2220" y="85" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="MHNmdjgqj6w6yaXh38Ab-137" value="submit" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2380" y="85" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MHNmdjgqj6w6yaXh38Ab-138" value="&lt;div style=&quot;font-size: 18px;&quot;&gt;前&lt;/div&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;端&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="1670" y="60" width="76" height="110" as="geometry" />
