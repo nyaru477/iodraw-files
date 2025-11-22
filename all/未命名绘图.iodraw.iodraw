@@ -233,11 +233,8 @@
         <mxCell id="MHNmdjgqj6w6yaXh38Ab-191" value="报告文件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2610" y="527.5" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MHNmdjgqj6w6yaXh38Ab-192" value="mask文件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="MHNmdjgqj6w6yaXh38Ab-192" value="SPD文件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2610" y="567.5" width="80" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="MHNmdjgqj6w6yaXh38Ab-193" value="brd解析文件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2610" y="607.5" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MHNmdjgqj6w6yaXh38Ab-194" value="结果文件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2610" y="417.5" width="80" height="20" as="geometry" />
