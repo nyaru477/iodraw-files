@@ -213,6 +213,27 @@
         <mxCell id="MHNmdjgqj6w6yaXh38Ab-187" value="准备文件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2610" y="150" width="80" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="MHNmdjgqj6w6yaXh38Ab-188" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2600" y="155" width="120" height="235" as="geometry" />
+        </mxCell>
+        <mxCell id="MHNmdjgqj6w6yaXh38Ab-189" value="brd文件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2620" y="190" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MHNmdjgqj6w6yaXh38Ab-190" value="模板文件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2620" y="230" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MHNmdjgqj6w6yaXh38Ab-191" value="电容文件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2620" y="270" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MHNmdjgqj6w6yaXh38Ab-192" value="mask文件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2620" y="310" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MHNmdjgqj6w6yaXh38Ab-193" value="brd解析文件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2620" y="350" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MHNmdjgqj6w6yaXh38Ab-194" value="准备文件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2620" y="160" width="80" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
