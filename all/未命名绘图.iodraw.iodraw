@@ -73,6 +73,9 @@
         <mxCell id="MHNmdjgqj6w6yaXh38Ab-106" value="格式转换" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1760" y="450" width="160" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="MHNmdjgqj6w6yaXh38Ab-175" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MHNmdjgqj6w6yaXh38Ab-107" target="MHNmdjgqj6w6yaXh38Ab-108">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="MHNmdjgqj6w6yaXh38Ab-107" value="小模版检查" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1945" y="400" width="75" height="30" as="geometry" />
         </mxCell>
@@ -81,6 +84,9 @@
         </mxCell>
         <mxCell id="MHNmdjgqj6w6yaXh38Ab-110" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2073" y="380" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="MHNmdjgqj6w6yaXh38Ab-174" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="MHNmdjgqj6w6yaXh38Ab-111" target="MHNmdjgqj6w6yaXh38Ab-170">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MHNmdjgqj6w6yaXh38Ab-111" value="大模板生成" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2090.5" y="400" width="75" height="30" as="geometry" />
