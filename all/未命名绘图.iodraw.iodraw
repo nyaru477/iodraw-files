@@ -32,7 +32,7 @@
           <mxGeometry x="2131" y="253" width="140" height="49" as="geometry" />
         </mxCell>
         <mxCell id="MHNmdjgqj6w6yaXh38Ab-10" value="计算层" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2049" y="402" width="108" height="49" as="geometry" />
+          <mxGeometry x="2152" y="390" width="108" height="49" as="geometry" />
         </mxCell>
         <mxCell id="MHNmdjgqj6w6yaXh38Ab-11" value="后处理层" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="2041" y="551" width="124" height="49" as="geometry" />
@@ -401,9 +401,6 @@
               <mxPoint x="2406" y="675" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="MHNmdjgqj6w6yaXh38Ab-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="MHNmdjgqj6w6yaXh38Ab-10" target="MHNmdjgqj6w6yaXh38Ab-10">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
