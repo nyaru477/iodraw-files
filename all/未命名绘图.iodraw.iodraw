@@ -100,7 +100,7 @@
         <mxCell id="MHNmdjgqj6w6yaXh38Ab-121" value="提交集群" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2360" y="445" width="75" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MHNmdjgqj6w6yaXh38Ab-122" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="MHNmdjgqj6w6yaXh38Ab-122" value="本地计算" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2450" y="445" width="75" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MHNmdjgqj6w6yaXh38Ab-123" value="mask文件生成" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -112,7 +112,7 @@
         <mxCell id="MHNmdjgqj6w6yaXh38Ab-129" value="集群计算" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2300" y="575" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MHNmdjgqj6w6yaXh38Ab-130" value="本地计算" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="MHNmdjgqj6w6yaXh38Ab-130" value="本地powerSI计算" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2427.5" y="575" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MHNmdjgqj6w6yaXh38Ab-131" value="&lt;div style=&quot;font-size: 18px;&quot;&gt;计算与后处理层&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
