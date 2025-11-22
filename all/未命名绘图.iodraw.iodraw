@@ -224,7 +224,7 @@
         <mxCell id="MHNmdjgqj6w6yaXh38Ab-188" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2590" y="412.5" width="120" height="235" as="geometry" />
         </mxCell>
-        <mxCell id="MHNmdjgqj6w6yaXh38Ab-189" value="brd文件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="MHNmdjgqj6w6yaXh38Ab-189" value="S参数文件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2610" y="447.5" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MHNmdjgqj6w6yaXh38Ab-190" value="模板文件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
