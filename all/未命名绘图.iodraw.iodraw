@@ -130,7 +130,11 @@
           <mxGeometry x="2360" y="445" width="75" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MHNmdjgqj6w6yaXh38Ab-169" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="MHNmdjgqj6w6yaXh38Ab-122" target="MHNmdjgqj6w6yaXh38Ab-130">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2480" y="475" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="MHNmdjgqj6w6yaXh38Ab-122" value="本地计算" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2450" y="445" width="75" height="30" as="geometry" />
@@ -148,10 +152,10 @@
           <mxGeometry x="1900" y="550" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="MHNmdjgqj6w6yaXh38Ab-129" value="集群计算" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2300" y="575" width="120" height="60" as="geometry" />
+          <mxGeometry x="2290" y="575" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MHNmdjgqj6w6yaXh38Ab-130" value="本地powerSI计算" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2427.5" y="575" width="120" height="60" as="geometry" />
+          <mxGeometry x="2420" y="575" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MHNmdjgqj6w6yaXh38Ab-131" value="&lt;div style=&quot;font-size: 18px;&quot;&gt;计算与后处理层&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="1670" y="550" width="76" height="110" as="geometry" />
