@@ -138,9 +138,6 @@
             <mxPoint x="1980" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MHNmdjgqj6w6yaXh38Ab-154" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1800" y="300" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="MHNmdjgqj6w6yaXh38Ab-159" value="&lt;font size=&quot;1&quot;&gt;小模版处理&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1930" y="550" width="110" height="50" as="geometry" />
         </mxCell>
