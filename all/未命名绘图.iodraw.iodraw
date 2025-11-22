@@ -165,6 +165,9 @@
         <mxCell id="MHNmdjgqj6w6yaXh38Ab-165" value="后&lt;div&gt;处&lt;/div&gt;&lt;div&gt;理&lt;/div&gt;&lt;div&gt;层&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1800" y="557.5" width="50" height="90" as="geometry" />
         </mxCell>
+        <mxCell id="MHNmdjgqj6w6yaXh38Ab-170" value="上传小模板库" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1955" y="460" width="75" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
